@@ -1,0 +1,64 @@
+# Video Game Sales Data Analysis & Visualization
+
+This project analyses a dataset of popular video games using Python, Pandas, and Matplotlib. The dataset contains information about game titles, platforms, release years, genres, publishers, regional sales, and global sales.
+
+## Project Objectives
+
+* Explore and understand video game sales data
+* Identify the best-selling games and genres
+* Analyse global and regional sales patterns
+* Examine the relationship between platforms, genres, publishers, and sales
+* Create clear and informative data visualisations
+
+## Dataset Features
+
+The dataset includes:
+
+* Game Name
+* Platform
+* Release Year
+* Genre
+* Publisher
+* North American Sales
+* European Sales
+* Japanese Sales
+* Other Regional Sales
+* Global Sales
+
+## Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook / Google Colab
+
+## Visualisations
+
+The project includes several visualisations, such as:
+
+1. Global sales comparison
+2. Sales by genre
+3. Sales by platform
+4. Regional sales analysis
+5. Top-selling video games
+6. Publisher performance
+
+## Key Purpose
+
+The main purpose of this project is to demonstrate practical data analysis and visualisation skills by transforming a real-world video game dataset into meaningful insights using Python.
+
+## Skills Demonstrated
+
+* Data cleaning
+* Exploratory Data Analysis (EDA)
+* Data aggregation
+* Data interpretation
+* Statistical analysis
+* Data visualisation
+* Python programming
+
+## Author
+
+**Zahid Mehmood**
+
+Data Science / AI & Machine Learning
